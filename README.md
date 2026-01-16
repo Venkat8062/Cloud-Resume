@@ -1,5 +1,9 @@
 # Cloud Resume Challenge
 
+# Why This Project Matters
+------------------------
+This project demonstrates practical experience with deploying, automating, and operating a simple cloud workload using AWS services, simulating real-world cloud support and operations tasks such as deployment, permissions management, and troubleshooting.
+
 ## Overview
 This project implements a cloud-hosted resume website using AWS services.
 The goal is to demonstrate hands-on understanding of cloud infrastructure,
